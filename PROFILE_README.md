@@ -25,4 +25,4 @@
 
 > 月色照亮琴弦，练习让它发声。
 
-[GitHub · Lyra Selene](https://github.com/Sixmonth12)
+[GitHub · Lyra Selene](https://github.com/LyraSelene)
